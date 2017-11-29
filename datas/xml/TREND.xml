@@ -1,0 +1,300 @@
+<root>
+   <container class="java.util.ArrayList">
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="1" typeClass="TREND">
+         <time>11.12.2014 11:20</time>
+         <open>67.0</open>
+         <close>67.03</close>
+         <high>67.1</high>
+         <low>66.92</low>
+         <volume>1670070</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="2" typeClass="TREND">
+         <time>11.12.2014 11:10</time>
+         <open>67.2</open>
+         <close>67.0</close>
+         <high>67.24</high>
+         <low>66.81</low>
+         <volume>4070970</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="3" typeClass="TREND">
+         <time>11.12.2014 11:00</time>
+         <open>67.59</open>
+         <close>67.18</close>
+         <high>67.59</high>
+         <low>67.0</low>
+         <volume>5224750</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="4" typeClass="TREND">
+         <time>11.12.2014 10:50</time>
+         <open>67.49</open>
+         <close>67.59</close>
+         <high>67.75</high>
+         <low>67.23</low>
+         <volume>2511950</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="5" typeClass="TREND">
+         <time>11.12.2014 10:40</time>
+         <open>67.59</open>
+         <close>67.49</close>
+         <high>67.68</high>
+         <low>67.49</low>
+         <volume>1242990</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="6" typeClass="TREND">
+         <time>11.12.2014 10:30</time>
+         <open>67.88</open>
+         <close>67.59</close>
+         <high>67.91</high>
+         <low>67.32</low>
+         <volume>5928260</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="7" typeClass="TREND">
+         <time>11.12.2014 10:20</time>
+         <open>67.94</open>
+         <close>67.88</close>
+         <high>68.16</high>
+         <low>67.77</low>
+         <volume>3198870</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="8" typeClass="TREND">
+         <time>11.12.2014 10:10</time>
+         <open>68.01</open>
+         <close>67.94</close>
+         <high>68.4</high>
+         <low>67.8</low>
+         <volume>13817750</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="9" typeClass="TREND">
+         <time>11.12.2014 10:00</time>
+         <open>67.87</open>
+         <close>68.04</close>
+         <high>68.27</high>
+         <low>67.85</low>
+         <volume>4964410</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="10" typeClass="TREND">
+         <time>10.12.2014 18:30</time>
+         <open>68.15</open>
+         <close>67.85</close>
+         <high>68.17</high>
+         <low>67.71</low>
+         <volume>5735240</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="11" typeClass="TREND">
+         <time>10.12.2014 18:20</time>
+         <open>68.12</open>
+         <close>68.13</close>
+         <high>68.25</high>
+         <low>68.07</low>
+         <volume>1810210</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="12" typeClass="TREND">
+         <time>10.12.2014 18:10</time>
+         <open>67.77</open>
+         <close>68.12</close>
+         <high>68.12</high>
+         <low>67.76</low>
+         <volume>1902380</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="13" typeClass="TREND">
+         <time>10.12.2014 18:00</time>
+         <open>67.96</open>
+         <close>67.79</close>
+         <high>68.04</high>
+         <low>67.76</low>
+         <volume>3120640</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="14" typeClass="TREND">
+         <time>10.12.2014 17:50</time>
+         <open>67.61</open>
+         <close>67.96</close>
+         <high>67.99</high>
+         <low>67.45</low>
+         <volume>4748120</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="15" typeClass="TREND">
+         <time>10.12.2014 17:40</time>
+         <open>67.9</open>
+         <close>67.62</close>
+         <high>68.07</high>
+         <low>67.56</low>
+         <volume>5916420</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="16" typeClass="TREND">
+         <time>10.12.2014 17:30</time>
+         <open>68.18</open>
+         <close>67.91</close>
+         <high>68.18</high>
+         <low>67.72</low>
+         <volume>5436030</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="17" typeClass="TREND">
+         <time>10.12.2014 17:20</time>
+         <open>68.45</open>
+         <close>68.19</close>
+         <high>68.45</high>
+         <low>68.16</low>
+         <volume>1395550</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="18" typeClass="TREND">
+         <time>10.12.2014 17:10</time>
+         <open>68.32</open>
+         <close>68.45</close>
+         <high>68.49</high>
+         <low>68.13</low>
+         <volume>3137990</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="19" typeClass="TREND">
+         <time>10.12.2014 17:00</time>
+         <open>68.49</open>
+         <close>68.34</close>
+         <high>68.51</high>
+         <low>68.22</low>
+         <volume>2549150</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="20" typeClass="TREND">
+         <time>10.12.2014 16:50</time>
+         <open>68.54</open>
+         <close>68.51</close>
+         <high>68.58</high>
+         <low>68.37</low>
+         <volume>3277990</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="21" typeClass="TREND">
+         <time>10.12.2014 16:40</time>
+         <open>68.44</open>
+         <close>68.5</close>
+         <high>68.7</high>
+         <low>68.36</low>
+         <volume>4054460</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="22" typeClass="TREND">
+         <time>10.12.2014 16:30</time>
+         <open>68.37</open>
+         <close>68.44</close>
+         <high>68.44</high>
+         <low>68.07</low>
+         <volume>2219420</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="23" typeClass="TREND">
+         <time>10.12.2014 16:20</time>
+         <open>68.36</open>
+         <close>68.37</close>
+         <high>68.48</high>
+         <low>68.21</low>
+         <volume>4802220</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="24" typeClass="TREND">
+         <time>10.12.2014 16:10</time>
+         <open>68.11</open>
+         <close>68.35</close>
+         <high>68.37</high>
+         <low>68.01</low>
+         <volume>4202700</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="25" typeClass="TREND">
+         <time>10.12.2014 16:00</time>
+         <open>67.96</open>
+         <close>68.11</close>
+         <high>68.14</high>
+         <low>67.93</low>
+         <volume>1171260</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="26" typeClass="TREND">
+         <time>10.12.2014 15:50</time>
+         <open>68.0</open>
+         <close>67.97</close>
+         <high>68.02</high>
+         <low>67.9</low>
+         <volume>873420</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="27" typeClass="TREND">
+         <time>10.12.2014 15:40</time>
+         <open>67.92</open>
+         <close>68.0</close>
+         <high>68.15</high>
+         <low>67.9</low>
+         <volume>954120</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="28" typeClass="TREND">
+         <time>10.12.2014 15:30</time>
+         <open>68.1</open>
+         <close>67.92</close>
+         <high>68.12</high>
+         <low>67.83</low>
+         <volume>1077530</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="29" typeClass="TREND">
+         <time>10.12.2014 15:20</time>
+         <open>68.24</open>
+         <close>68.12</close>
+         <high>68.26</high>
+         <low>67.97</low>
+         <volume>2607470</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="30" typeClass="TREND">
+         <time>10.12.2014 15:10</time>
+         <open>68.24</open>
+         <close>68.24</close>
+         <high>68.49</high>
+         <low>68.17</low>
+         <volume>3823440</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="31" typeClass="TREND">
+         <time>10.12.2014 15:00</time>
+         <open>68.19</open>
+         <close>68.25</close>
+         <high>68.48</high>
+         <low>68.08</low>
+         <volume>5427510</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="32" typeClass="TREND">
+         <time>10.12.2014 14:50</time>
+         <open>67.72</open>
+         <close>68.19</close>
+         <high>68.65</high>
+         <low>67.72</low>
+         <volume>11112880</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="33" typeClass="TREND">
+         <time>10.12.2014 14:40</time>
+         <open>67.66</open>
+         <close>67.72</close>
+         <high>67.75</high>
+         <low>67.64</low>
+         <volume>1542650</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="34" typeClass="TREND">
+         <time>10.12.2014 14:30</time>
+         <open>67.78</open>
+         <close>67.66</close>
+         <high>67.79</high>
+         <low>67.6</low>
+         <volume>2075590</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="35" typeClass="TREND">
+         <time>10.12.2014 14:20</time>
+         <open>67.59</open>
+         <close>67.79</close>
+         <high>67.8</high>
+         <low>67.52</low>
+         <volume>2748200</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="36" typeClass="TREND">
+         <time>10.12.2014 14:10</time>
+         <open>67.2</open>
+         <close>67.58</close>
+         <high>67.59</high>
+         <low>67.18</low>
+         <volume>1422620</volume>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TrendStory" id="37" typeClass="TREND">
+         <time>10.12.2014 14:00</time>
+         <open>67.57</open>
+         <close>67.2</close>
+         <high>67.62</high>
+         <low>67.13</low>
+         <volume>3866770</volume>
+      </generic>
+   </container>
+</root>

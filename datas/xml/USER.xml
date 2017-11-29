@@ -1,0 +1,63 @@
+<root>
+   <container class="java.util.ArrayList">
+      <generic class="ru.sfedu.tripplepi.model.Users" id="1" typeClass="USER">
+         <name>Eugene</name>
+         <surname>Drankin</surname>
+         <patronymic>Vyacheslavovich</patronymic>
+         <email>drankinevgenijj2@yandex.ru</email>
+         <phone>8(908)197-83-72</phone>
+         <activation>true</activation>
+         <block>false</block>
+         <role>99</role>
+         <created_at>11.12.2014 11:20</created_at>
+         <updated_at>11.12.2014 11:20</updated_at>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Users" id="2" typeClass="USER">
+         <name>Michail</name>
+         <surname>Aulov</surname>
+         <email>vchau@gmail.com</email>
+         <phone>8(912)112-22-11</phone>
+         <activation>true</activation>
+         <block>false</block>
+         <role>1</role>
+         <created_at>11.12.2014 11:10</created_at>
+         <updated_at>11.12.2014 11:10</updated_at>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Users" id="3" typeClass="USER">
+         <name>Klarin</name>
+         <surname>Margaret</surname>
+         <patronymic>Trofimovna</patronymic>
+         <email>mark@mail.ru</email>
+         <phone>8(864)112-33-12</phone>
+         <activation>true</activation>
+         <block>false</block>
+         <role>1</role>
+         <created_at>11.12.2014 11:00</created_at>
+         <updated_at>11.12.2014 11:10</updated_at>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Users" id="4" typeClass="USER">
+         <name>Kirov</name>
+         <surname>Urban</surname>
+         <patronymic>John ogli</patronymic>
+         <email>kuj@ya.ru</email>
+         <phone>8(113)212-33-11</phone>
+         <activation>true</activation>
+         <block>true</block>
+         <role>1</role>
+         <created_at>11.12.2014 10:50</created_at>
+         <updated_at>11.12.2014 11:10</updated_at>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Users" id="5" typeClass="USER">
+         <name>Novikov</name>
+         <surname>Kurban</surname>
+         <patronymic>Klarenovich</patronymic>
+         <email>nkk@gmail.com</email>
+         <phone>8(212)331-33-11</phone>
+         <activation>false</activation>
+         <block>false</block>
+         <role>1</role>
+         <created_at>11.12.2014 10:40</created_at>
+         <updated_at>11.12.2014 11:20</updated_at>
+      </generic>
+   </container>
+</root>

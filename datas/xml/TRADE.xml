@@ -1,0 +1,102 @@
+<root>
+   <container class="java.util.ArrayList">
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="1" typeClass="TRADE">
+         <volume>1670070</volume>
+         <buy>67.0</buy>
+         <sell>67.03</sell>
+         <trend>true</trend>
+         <user>4</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="2" typeClass="TRADE">
+         <volume>4070970</volume>
+         <buy>67.2</buy>
+         <sell>67.0</sell>
+         <trend>false</trend>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="3" typeClass="TRADE">
+         <volume>5224750</volume>
+         <buy>67.59</buy>
+         <sell>67.18</sell>
+         <trend>true</trend>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="4" typeClass="TRADE">
+         <volume>2511950</volume>
+         <buy>67.49</buy>
+         <sell>67.59</sell>
+         <trend>false</trend>
+         <user>2</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="5" typeClass="TRADE">
+         <volume>1242990</volume>
+         <buy>67.59</buy>
+         <sell>67.49</sell>
+         <trend>false</trend>
+         <user>5</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="6" typeClass="TRADE">
+         <volume>5928260</volume>
+         <buy>67.88</buy>
+         <sell>67.59</sell>
+         <trend>false</trend>
+         <user>3</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="7" typeClass="TRADE">
+         <volume>3198870</volume>
+         <buy>67.94</buy>
+         <sell>67.88</sell>
+         <trend>false</trend>
+         <user>2</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="8" typeClass="TRADE">
+         <volume>13817750</volume>
+         <buy>68.01</buy>
+         <sell>67.94</sell>
+         <trend>true</trend>
+         <user>3</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="9" typeClass="TRADE">
+         <volume>4964410</volume>
+         <buy>67.87</buy>
+         <sell>68.04</sell>
+         <trend>false</trend>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="10" typeClass="TRADE">
+         <volume>5735240</volume>
+         <buy>68.15</buy>
+         <sell>67.85</sell>
+         <trend>false</trend>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="11" typeClass="TRADE">
+         <volume>1810210</volume>
+         <buy>68.12</buy>
+         <sell>68.13</sell>
+         <trend>true</trend>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="12" typeClass="TRADE">
+         <volume>1902380</volume>
+         <buy>67.77</buy>
+         <sell>68.12</sell>
+         <trend>false</trend>
+         <user>4</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="13" typeClass="TRADE">
+         <volume>3120640</volume>
+         <buy>67.96</buy>
+         <sell>67.79</sell>
+         <trend>true</trend>
+         <user>2</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.TradeStory" id="14" typeClass="TRADE">
+         <volume>4748120</volume>
+         <buy>67.61</buy>
+         <sell>67.96</sell>
+         <trend>true</trend>
+         <user>3</user>
+      </generic>
+   </container>
+</root>

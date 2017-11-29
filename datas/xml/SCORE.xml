@@ -1,0 +1,54 @@
+<root>
+   <container class="java.util.ArrayList">
+      <generic class="ru.sfedu.tripplepi.model.Score" id="1" typeClass="SCORE">
+         <sum>220</sum>
+         <real>true</real>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Score" id="2" typeClass="SCORE">
+         <sum>110</sum>
+         <real>false</real>
+         <user>4</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Score" id="3" typeClass="SCORE">
+         <sum>530</sum>
+         <real>false</real>
+         <user>11</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Score" id="4" typeClass="SCORE">
+         <sum>43</sum>
+         <real>true</real>
+         <user>13</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Score" id="8" typeClass="SCORE">
+         <sum>3973</sum>
+         <real>true</real>
+         <user>3</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Score" id="9" typeClass="SCORE">
+         <sum>35655</sum>
+         <real>false</real>
+         <user>122</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Score" id="7" typeClass="SCORE">
+         <sum>2323</sum>
+         <real>false</real>
+         <user>7</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Score" id="17" typeClass="SCORE">
+         <sum>3973</sum>
+         <real>true</real>
+         <user>3</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Score" id="10" typeClass="SCORE">
+         <sum>3973</sum>
+         <real>true</real>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Score" id="112" typeClass="SCORE">
+         <sum>552</sum>
+         <real>false</real>
+         <user>3</user>
+      </generic>
+   </container>
+</root>

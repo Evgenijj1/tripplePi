@@ -1,0 +1,67 @@
+<root>
+   <container class="java.util.ArrayList">
+      <generic class="ru.sfedu.tripplepi.model.Request" id="1" typeClass="REQUEST">
+         <price>67.0</price>
+         <volume>1670070</volume>
+         <trend>true</trend>
+         <time>11.12.2014 11:20</time>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Request" id="2" typeClass="REQUEST">
+         <price>67.2</price>
+         <volume>4070970</volume>
+         <trend>false</trend>
+         <time>11.12.2014 11:10</time>
+         <user>3</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Request" id="3" typeClass="REQUEST">
+         <price>67.59</price>
+         <volume>5224750</volume>
+         <trend>false</trend>
+         <time>11.12.2014 11:00</time>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Request" id="4" typeClass="REQUEST">
+         <price>67.49</price>
+         <volume>2511950</volume>
+         <trend>false</trend>
+         <time>11.12.2014 10:50</time>
+         <user>4</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Request" id="5" typeClass="REQUEST">
+         <price>67.59</price>
+         <volume>1242990</volume>
+         <trend>true</trend>
+         <time>11.12.2014 10:40</time>
+         <user>3</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Request" id="6" typeClass="REQUEST">
+         <price>67.88</price>
+         <volume>5928260</volume>
+         <trend>true</trend>
+         <time>11.12.2014 10:30</time>
+         <user>5</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Request" id="7" typeClass="REQUEST">
+         <price>67.94</price>
+         <volume>3198870</volume>
+         <trend>true</trend>
+         <time>11.12.2014 10:20</time>
+         <user>3</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Request" id="8" typeClass="REQUEST">
+         <price>68.01</price>
+         <volume>13817750</volume>
+         <trend>false</trend>
+         <time>11.12.2014 10:10</time>
+         <user>2</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Request" id="9" typeClass="REQUEST">
+         <price>67.87</price>
+         <volume>4964410</volume>
+         <trend>true</trend>
+         <time>11.12.2014 10:00</time>
+         <user>3</user>
+      </generic>
+   </container>
+</root>

@@ -1,0 +1,24 @@
+<root>
+   <container class="java.util.ArrayList">
+      <generic class="ru.sfedu.tripplepi.model.Tariffing" id="1" typeClass="TARIF">
+         <sum>220</sum>
+         <date>2014-12-11 11:20:00.0 MSK</date>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Tariffing" id="2" typeClass="TARIF">
+         <sum>110</sum>
+         <date>2012-10-11 03:38:00.0 MSK</date>
+         <user>4</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Tariffing" id="3" typeClass="TARIF">
+         <sum>530</sum>
+         <date>1996-05-01 05:20:00.0 MSD</date>
+         <user>1</user>
+      </generic>
+      <generic class="ru.sfedu.tripplepi.model.Tariffing" id="4" typeClass="TARIF">
+         <sum>43</sum>
+         <date>2017-01-16 01:17:00.0 MSK</date>
+         <user>2</user>
+      </generic>
+   </container>
+</root>
